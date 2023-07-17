@@ -107,10 +107,11 @@ body{
 
 .top{
   min-height: calc(100vh - 81px);
-  background-image: url("../images/top-bg.jpg");
-  background-repeat: no-repeat;
+  background : url("../images/top-bg.jpg") no-repeat bottom center;
   background-size: cover;
-  background-position: bottom center;
+  /*background-repeat: no-repeat;*/
+
+  /*background-position: bottom center;*/
 }
 
 .title{
