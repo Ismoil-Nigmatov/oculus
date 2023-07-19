@@ -757,6 +757,10 @@ body{
   .buy__img{
     width: 300px;
   }
+
+  .title{
+    padding-top: 150px;
+  }
 }
 
 @media (max-width: 607px) {
